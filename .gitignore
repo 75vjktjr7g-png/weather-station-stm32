@@ -1,0 +1,313 @@
+# ===== STM32 / CubeIDE =====
+Debug/
+Release/
+.build/
+.settings/
+*.launch
+
+# ===== Eclipse / CubeIDE =====
+.cproject
+.project
+.mxproject
+
+# ===== STM32CubeMX =====
+*.ioc
+# ===== STM32 / CubeIDE =====
+Debug/
+Release/
+.build/
+.settings/
+*.launch
+
+# ===== Eclipse / CubeIDE =====
+.cproject
+.project
+.mxproject
+
+# ===== STM32CubeMX =====
+*.ioc
+
+# ===== Compiled files =====
+*.o
+*.elf
+*.bin
+*.map
+
+# ===== OS files =====
+.DS_Store
+Thumbs.db
+
+# ===== Python =====
+__pycache__/
+*.pyc
+.env
+
+# ===== Flask =====
+instance/
+# ===== STM32 / CubeIDE =====
+Debug/
+Release/
+.build/
+.settings/
+*.launch
+
+# ===== Eclipse / CubeIDE =====
+.cproject
+.project
+.mxproject
+
+# ===== STM32CubeMX =====
+*.ioc
+
+# ===== STM32 / CubeIDE =====
+Debug/
+Release/
+.build/
+.settings/
+*.launch
+
+# ===== Eclipse / CubeIDE =====
+.cproject
+.project
+.mxproject
+
+# ===== STM32 / CubeIDE =====
+Debug/
+Release/
+.build/
+.settings/
+*.launch
+
+# ===== Eclipse / CubeIDE =====
+.cproject
+.project
+.mxproject
+
+# ===== STM32CubeMX =====
+*.ioc
+
+# ===== Compiled files =====
+*.o
+# ===== STM32 / CubeIDE =====
+Debug/
+Release/
+.build/
+.settings/
+*.launch
+
+# ===== Eclipse / CubeIDE =====
+.cproject
+.project
+.mxproject
+# ===== STM32 / CubeIDE =====
+Debug/
+Release/
+.build/
+.settings/
+*.launch
+
+# ===== Eclipse / CubeIDE =====
+.cproject
+.project
+.mxproject
+
+# ===== STM32CubeMX =====
+*.ioc
+
+# ===== Compiled files =====
+# ===== STM32 / CubeIDE =====
+Debug/
+Release/
+.build/
+.settings/
+*.launch
+
+# ===== Eclipse / CubeIDE =====
+.cproject
+.project
+.mxproject
+# ===== STM32 / CubeIDE =====
+Debug/
+Release/
+.build/
+.settings/
+*.launch
+
+# ===== Eclipse / CubeIDE =====
+.cproject
+# ===== STM32 / CubeIDE =====
+Debug/
+Release/
+.build/
+.settings/
+*.launch
+
+# ===== Eclipse / CubeIDE =====
+.cproject
+.project
+.mxproject
+
+# ===== STM32CubeMX =====
+# ===== STM32 / CubeIDE =====
+Debug/
+Release/
+.build/
+.settings/
+*.launch
+
+# ===== Eclipse / CubeIDE =====
+.cproject
+.project
+.mxproject
+
+# ===== STM32CubeMX =====
+*.ioc
+
+# ===== Compiled files =====
+*.o
+*.elf
+*.bin
+# ===== STM32 / CubeIDE =====
+Debug/
+Release/
+.build/
+.settings/
+*.launch
+
+# ===== Eclipse / CubeIDE =====
+.cproject
+.project
+.mxproject
+
+# ===== STM32CubeMX =====
+*.ioc
+
+# ===== Compiled files =====
+*.o
+*.elf
+*.bin
+# ===== STM32 / CubeIDE =====
+Debug/
+Release/
+.build/
+.settings/
+*.launch
+
+# ===== Eclipse / CubeIDE =====
+.cproject
+.project
+.mxproject
+
+# ===== STM32CubeMX =====
+*.ioc
+# ===== STM32 / CubeIDE =====
+Debug/
+Release/
+.build/
+.settings/
+*.launch
+
+# ===== Eclipse / CubeIDE =====
+.cproject
+.project
+# ===== STM32 / CubeIDE =====
+Debug/
+Release/
+.build/
+.settings/
+*.launch
+
+# ===== Eclipse / CubeIDE =====
+.cproject
+.project
+.mxproject
+
+# ===== STM32CubeMX =====
+*.ioc
+
+# ===== Compiled files =====
+*.o
+*.elf
+*.bin
+*.map
+
+# ===== OS files =====
+# ===== STM32 / CubeIDE =====
+Debug/
+Release/
+.build/
+.settings/
+*.launch
+
+# ===== Eclipse / CubeIDE =====
+.cproject
+.project
+.mxproject
+
+# ===== STM32CubeMX =====
+*.ioc
+
+# ===== Compiled files =====
+*.o
+*.elf
+*.bin
+*.map
+
+# ===== OS files =====
+.DS_Store
+Thumbs.db
+
+# ===== Python =====
+__pycache__/
+*.pyc
+.env
+
+# ===== Flask =====
+instance/
+# ===== STM32 / CubeIDE =====
+Debug/
+Release/
+.build/
+.settings/
+*.launch
+
+# ===== Eclipse / CubeIDE =====
+.cproject
+.project
+.mxproject
+
+# ===== STM32CubeMX =====
+*.ioc
+
+# ===== Compiled files =====
+*.o
+*.elf
+*.bin
+*.map
+
+# ===== OS files =====
+.DS_Store
+Thumbs.db
+
+# ===== Python =====
+__pycache__/
+*.pyc
+.env
+
+# ===== Flask =====
+instance/
+
+# ===== Compiled files =====
+*.o *.elf *.bin *.map
+
+# ===== OS files =====
+.DS_Store Thumbs.db
+
+# ===== Python =====
+__pycache__/ *.pyc .env
+
+# ===== Flask =====
+instance/
+
+
+
